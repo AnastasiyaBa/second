@@ -5,6 +5,11 @@ body {
     text-decoration: none;
 }
 
+main {
+    justify-content: center;
+    text-align:center;
+}
+
 a{
     color:#12101d;
 }
