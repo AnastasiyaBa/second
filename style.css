@@ -91,7 +91,7 @@ a{
 
 
 li{
-    list-style-type: none;
+    display: inline-block;
 }
 
 .tab {
