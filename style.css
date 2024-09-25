@@ -91,8 +91,8 @@ a{
 
 
 li{
-    display: inline-block;
-}
+    list-style-type:none;
+}    
 
 .tab {
     width: 100%;
