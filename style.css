@@ -90,8 +90,9 @@ a{
 }
 
 
-
-
+ol{
+    list-style-type: none;
+}
 
 .tab {
     width: 100%;
