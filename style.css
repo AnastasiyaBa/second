@@ -7,8 +7,7 @@ body {
 
 main {
     justify-content: center;
-    text-align:center;
-    max-width:960px;
+    text-align: center;
 }
 
 a{
@@ -62,7 +61,7 @@ a{
 }
 
 .site-link a:hover{
-    color: rgb(63, 19, 67);
+    color: rgb(69, 10, 69);
 }
 
 
