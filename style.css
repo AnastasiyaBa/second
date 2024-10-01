@@ -17,6 +17,7 @@ body{
     background-color: #F4DBDB;
     padding-top: 30px;
     padding-bottom: 30px;
+    padding-left:30px;
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
@@ -26,7 +27,6 @@ body{
     flex-direction: row;
     margin: 0;
     justify-content: flex-start;
-    padding-left: 30px;
 }
 
 .logo{
