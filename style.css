@@ -13,8 +13,8 @@ body{
     display: flex;
     flex-direction: row;
     margin: 0 auto;
-    justify-content: space-between;
-
+    justify-content: flex-start;
+    
 }
 
 .logo{
@@ -57,6 +57,7 @@ body{
 .header{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     max-width: 100%;
     background-color: #F4DBDB;
     padding-top: 30px;
