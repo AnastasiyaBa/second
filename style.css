@@ -17,7 +17,6 @@ body{
     background-color: #F4DBDB;
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-left:30px;
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
@@ -25,7 +24,7 @@ body{
 .header-cont{
     display: flex;
     flex-direction: row;
-    margin: 0;
+    margin-left: 30px;
     justify-content: flex-start;
 }
 
